@@ -1,6 +1,6 @@
 # Gemini AI Chatbot
 
-<img src="static/images/Snapshot1" alt="Snapshot1" width="700"/>
+<img src="/static/images/Snapshot1.png" alt="Snapshot1" width="700"/>
 
 ## Overview
 
